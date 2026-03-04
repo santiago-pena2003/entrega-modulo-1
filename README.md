@@ -11,3 +11,5 @@
 [Ivan Rodriguez](https://github.com/Ever-Ivan-Rodriguez)
 
 [Tomás Flores](<https://github.com/tomiflores24>)
+
+[Ricardo Palma](<https://github.com/ricardorpalma/TyHM_2026>)
