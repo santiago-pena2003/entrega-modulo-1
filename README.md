@@ -2,7 +2,7 @@
 
 ??creen server de minecraft 
 
-[Santiago Peña](https://github.com/santiago-pena2003)
+[Santiago Peña](<https://github.com/santiago-pena2003>)
 
 [Numa Maldonado](<https://github.com/numa-maldonado>)
 
