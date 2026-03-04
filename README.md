@@ -2,6 +2,8 @@
 
 ## Entrega Módulo 1
 
+### Grupo: Dybala a Boca
+
 [Santiago Peña](https://github.com/santiago-pena2003)
 
 [Numa Maldonado](<https://github.com/numa-maldonado>)
