@@ -2,8 +2,8 @@
 
 ??creen server de minecraft 
 
-[SANTIP](https://github.com/santiago-pena2003)
+[Santiago Peña](https://github.com/santiago-pena2003)
 
-[NUMA HOLA](<https://github.com/numa-maldonado>)
+[Numa Maldonado](<https://github.com/numa-maldonado>)
 
-[Sebastián Dimarco] (<https://github.com/Sebastian-Dimarco>)
+[Sebastián Dimarco](<https://github.com/Sebastian-Dimarco>)
