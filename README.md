@@ -14,6 +14,8 @@
 
 *Ejercicio 6:* Creación de un archivo con metadatos en el entorno R
 
+---
+
 ### Grupo: Dybala a Boca
 
 [Santiago Peña](https://github.com/santiago-pena2003)
