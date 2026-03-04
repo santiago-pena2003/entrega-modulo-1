@@ -12,4 +12,4 @@
 
 [Tomás Flores](<https://github.com/tomiflores24>)
 
-[Ricardo Palma](<https://github.com/ricardorpalma/TyHM_2026>)
+[Profesor Ricardo Palma](<https://github.com/ricardorpalma/TyHM_2026>)
