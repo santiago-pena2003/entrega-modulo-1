@@ -2,6 +2,9 @@
 
 ## Entrega Módulo 1
 
+*Ejercicio 1:* Cómo crear, modificar y hacer el archivo README.md
+*Ejercicio 2:* Creación de un archivo html en forma manual
+
 ### Grupo: Dybala a Boca
 
 [Santiago Peña](https://github.com/santiago-pena2003)
