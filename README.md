@@ -22,7 +22,7 @@
 
 [Numa Maldonado](<https://github.com/numa-maldonado>)
 
-~~[Sebastián Dimarco](<https://github.com/Sebastian-Dimarco>)~~
+[Sebastián Dimarco](<https://github.com/Sebastian-Dimarco>)
 
 [Ivan Rodriguez](https://github.com/Ever-Ivan-Rodriguez)
 
