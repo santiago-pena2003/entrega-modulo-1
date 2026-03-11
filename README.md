@@ -37,5 +37,5 @@
 |Iván Rodriguez|2634219531|everivanro2020@gmail.com|https://github.com/Ever-Ivan-Rodriguez/Modulo1|
 |Numa Maldonado|2612172908|nuuma2016@gmail.com|https://github.com/numa-maldonado/_-modulo1|
 |Santiago Peña|2644507981|santiagojoaquinpena@gmail.com|https://github.com/santiago-pena2003/modulo_1|
-|Sebastián Dimarco|2634547764|https://github.com/Sebastian-Dimarco/Modulo1|
+|Sebastián Dimarco|2634547764|tatitodimarco20@gmail.com|https://github.com/Sebastian-Dimarco/Modulo1|
 |Tomás Flores|2613390528|tomiflores24@gmail.com|https://github.com/tomiflores24/Modulo-1|
