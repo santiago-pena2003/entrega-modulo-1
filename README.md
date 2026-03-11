@@ -35,7 +35,7 @@
 |Nombre|Número de teléfono|Mail|Repositorio|
 |:--------- |----------:|:------:|------|
 |Iván Rodriguez|2634219531|everivanro2020@gmail.com|https://github.com/Ever-Ivan-Rodriguez|
-|Numa Maldonado|2612172908|nuuma2016@gmail.com|https://github.com/numa-maldonado|
+|Numa Maldonado|2612172908|nuuma2016@gmail.com|https://github.com/numa-maldonado/_-modulo1/blob/main/README.md|
 |Santiago Peña|2644507981|santiagojoaquinpena@gmail.com|https://github.com/santiago-pena2003|
 |Sebastián Dimarco|2634547764|tatitodimarco20@gmail.com|https://github.com/Sebastian-Dimarco|
 |Tomás Flores|2613390528|tomiflores24@gmail.com|https://github.com/tomiflores24|
