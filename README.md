@@ -40,3 +40,12 @@
 |Santiago Peña|2644507981|santiagojoaquinpena@gmail.com|https://github.com/santiago-pena2003/modulo_1|
 |Sebastián Dimarco|2634547764|tatitodimarco20@gmail.com|https://github.com/Sebastian-Dimarco/Modulo1|
 |Tomás Flores|2613390528|tomiflores24@gmail.com|https://github.com/tomiflores24/Modulo-1|
+-----
+## Entrega Actividad 5
+|Nombre|LinkCV|
+|:---|:--:|
+|Dimarco Sebastián|[CV](https://github.com/user-attachments/files/26159628/AltaCV_Template.1.pdf)|
+|Peña Santiago||
+|Maldonado Numa||
+|Rodriguez Iván||
+|Flores Tomás||
