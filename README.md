@@ -46,6 +46,6 @@
 |:---|:--:|
 |Dimarco Sebastián|[CV](https://github.com/user-attachments/files/26159628/AltaCV_Template.1.pdf)|
 |Peña Santiago|[CV](https://github.com/user-attachments/files/26253903/CV.-.Santiago.Joaquin.Pena.pdf)|
-|Maldonado Numa||
+|Maldonado Numa|[CV](https://github.com/user-attachments/files/26256817/CV.Numa.pdf)|
 |Rodriguez Iván|[CV](https://github.com/user-attachments/files/26255585/ModernCV_and_Cover_Letter_Template.pdf)|
 |Flores Tomás||
