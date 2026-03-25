@@ -45,7 +45,7 @@
 |Nombre|LinkCV|
 |:---|:--:|
 |Dimarco Sebastián|[CV](https://github.com/user-attachments/files/26159628/AltaCV_Template.1.pdf)|
-|Peña Santiago|[CV](https://github.com/santiago-pena2003/modulo_1/blob/main/CV%20-%20Santiago%20Joaqu%C3%ADn%20Pe%C3%B1a.pdf)|
+|Peña Santiago|[CV](https://github.com/user-attachments/files/26253903/CV.-.Santiago.Joaquin.Pena.pdf)|
 |Maldonado Numa||
 |Rodriguez Iván||
 |Flores Tomás||
