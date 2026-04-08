@@ -32,7 +32,7 @@
 [Profesor Ricardo Palma](<https://github.com/ricardorpalma/TyHM_2026>)
 
 ---
-## ENTREGA MÓDULO 2 
+## ENTREGA MÓDULO 1 
 |Nombre|Número de teléfono|Mail|Repositorio|
 |:--------- |----------:|:------:|------|
 |Iván Rodriguez|2634219531|everivanro2020@gmail.com|https://github.com/Ever-Ivan-Rodriguez/Modulo1|
@@ -49,3 +49,8 @@
 |Maldonado Numa|[CV](https://github.com/user-attachments/files/26256817/CV.Numa.pdf)|
 |Rodriguez Iván|[CV](https://github.com/user-attachments/files/26255585/ModernCV_and_Cover_Letter_Template.pdf)|
 |Flores Tomás|[CV](https://github.com/user-attachments/files/26415736/CV_TomasFlores.pdf)|
+
+## Entrega Resumen en OVERLEAF 
+
+[Resumen Overleaf](https://github.com/user-attachments/files/26581953/Tecnicas_y_herramientas_modernas_2026.pdf)
+
