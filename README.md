@@ -54,3 +54,7 @@
 
 [Resumen Overleaf](https://github.com/user-attachments/files/26581953/Tecnicas_y_herramientas_modernas_2026.pdf)
 
+
+## ENTREGA MÓDULO 2
+[Clase 1 de R](https://posit.cloud/content/12212477)
+
