@@ -6,6 +6,6 @@ Aqui está colocado el PDF con las actividades realizadas en clase.
 
 [Ejercitacion realizada en clase](https://github.com/user-attachments/files/26986543/document.pdf)
 
-Aqui estan las actividades y la presentación.
+Aqui están la actividad que elegimos y su respectiva presentación.
 
 [Actividades y presentacion](https://posit.cloud/content/12251419) 
