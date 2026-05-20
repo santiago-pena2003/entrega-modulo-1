@@ -50,6 +50,10 @@
 |Rodriguez Iván|[CV](https://github.com/user-attachments/files/26255585/ModernCV_and_Cover_Letter_Template.pdf)|
 |Flores Tomás|[CV](https://github.com/user-attachments/files/26415736/CV_TomasFlores.pdf)|
 
+## Entrega Resumen en OVERLEAF 
+
+[Resumen Overleaf](https://github.com/user-attachments/files/26581953/Tecnicas_y_herramientas_modernas_2026.pdf)
+
 ## Entrega Módulo 2
 Aqui está colocado el PDF con las actividades realizadas en clase.
 
@@ -60,8 +64,6 @@ Aqui están la actividad que elegimos y su respectiva presentación.
 [Actividades y presentacion](https://posit.cloud/content/12251419) 
 
 
-## Entrega Resumen en OVERLEAF 
 
-[Resumen Overleaf](https://github.com/user-attachments/files/26581953/Tecnicas_y_herramientas_modernas_2026.pdf)
 
 
