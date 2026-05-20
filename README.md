@@ -1,7 +1,7 @@
 # TyHM_2026
 <img width="416" alt="Gemini_Generated_Image_1hqr7k1hqr7k1hqr" src="https://github.com/user-attachments/assets/4b7c90c8-936e-433f-b867-43ca88fee4d3" />
 
-##  Entrega Módulo 1
+##  Módulo 1
 
 *Ejercicio 1:* Cómo crear, modificar y hacer el archivo README.md
 
@@ -41,7 +41,7 @@
 |Sebastián Dimarco|2634547764|tatitodimarco20@gmail.com|https://github.com/Sebastian-Dimarco/Modulo1|
 |Tomás Flores|2613390528|tomiflores24@gmail.com|https://github.com/tomiflores24/Modulo-1|
 -----
-## Entrega Actividad 5
+## Actividad 5
 |Nombre|LinkCV|
 |:---|:--:|
 |Dimarco Sebastián|[CV](https://github.com/user-attachments/files/26159628/AltaCV_Template.1.pdf)|
@@ -49,6 +49,16 @@
 |Maldonado Numa|[CV](https://github.com/user-attachments/files/26256817/CV.Numa.pdf)|
 |Rodriguez Iván|[CV](https://github.com/user-attachments/files/26255585/ModernCV_and_Cover_Letter_Template.pdf)|
 |Flores Tomás|[CV](https://github.com/user-attachments/files/26415736/CV_TomasFlores.pdf)|
+
+## Entrega Módulo 2
+Aqui está colocado el PDF con las actividades realizadas en clase.
+
+[Ejercitacion realizada en clase](https://github.com/user-attachments/files/26986543/document.pdf)
+
+Aqui están la actividad que elegimos y su respectiva presentación.
+
+[Actividades y presentacion](https://posit.cloud/content/12251419) 
+
 
 ## Entrega Resumen en OVERLEAF 
 
