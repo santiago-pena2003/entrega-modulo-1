@@ -3,7 +3,7 @@
 
 ## Entrega Módulo 2
 
-(https://posit.cloud/content/12251419)
+[Link directo a positcloud](https://posit.cloud/content/12251419)
 
 Aqui está colocado el PDF con las actividades realizadas en clase.
 
