@@ -62,7 +62,7 @@ Aqui está colocado el PDF con las actividades realizadas en clase.
 
 [Ejercitacion realizada en clase](https://github.com/user-attachments/files/26986543/document.pdf)
 
-Aqui estála presentación de la actividad elegida.
+Aqui está la presentación de la actividad elegida.
 
 [Presentación Slidy](https://e41a679938f3421bb80077f0a5870531.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fpresentaci%C3%B3n-problema-8.html#) 
 
