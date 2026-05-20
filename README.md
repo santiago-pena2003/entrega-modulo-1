@@ -64,7 +64,7 @@ Aqui está colocado el PDF con las actividades realizadas en clase.
 
 Aqui están la actividad que elegimos y su respectiva presentación.
 
-[Actividades y presentacion](https://posit.cloud/content/12251419) 
+[Presentación Slidy](https://e41a679938f3421bb80077f0a5870531.app.posit.cloud/file_show?path=%2Fcloud%2Fproject%2Fpresentaci%C3%B3n-problema-8.html#) 
 
 
 
