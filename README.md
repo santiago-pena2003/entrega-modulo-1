@@ -55,6 +55,9 @@
 [Resumen Overleaf](https://github.com/user-attachments/files/26581953/Tecnicas_y_herramientas_modernas_2026.pdf)
 
 ## Entrega Módulo 2
+
+[Link directo a código en positcloud](https://posit.cloud/content/12251419)
+
 Aqui está colocado el PDF con las actividades realizadas en clase.
 
 [Ejercitacion realizada en clase](https://github.com/user-attachments/files/26986543/document.pdf)
