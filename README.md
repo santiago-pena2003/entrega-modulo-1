@@ -59,7 +59,7 @@
 
 Aqui está colocada la carpeta con las actividades realizadas en clase.
 
-[Archivo.zip de RStudio]([12251419.zip](https://github.com/user-attachments/files/28076640/12251419.zip))
+[Archivo.zip de RStudio](https://github.com/user-attachments/files/28076640/12251419.zip)
 
 
 
