@@ -61,6 +61,20 @@ Aqui está colocada la carpeta con las actividades realizadas en clase.
 
 [Archivo .zip de RStudio](https://github.com/user-attachments/files/28076695/12251419.zip)
 
+----------
+
+##  Módilo 3
+
+Aqui esta colocada la simulacion en SIMUL8. Industria Vinícola
+
+[Industria Vinícola]()
+
+
+
+
+
+
+
 
 
 
