@@ -64,7 +64,7 @@ Aqui está colocada la carpeta con las actividades realizadas en clase.
 
 ----------
 
-##  Módilo 3
+##  Módulo 3
 
 Aqui esta colocada la simulacion en SIMUL8. Industria Vinícola
 
