@@ -1,3 +1,4 @@
+[Industria Vinícola.zip](https://github.com/user-attachments/files/28288231/Industria.Vinicola.zip)
 # TyHM_2026
 <img width="416" alt="Gemini_Generated_Image_1hqr7k1hqr7k1hqr" src="https://github.com/user-attachments/assets/4b7c90c8-936e-433f-b867-43ca88fee4d3" />
 
@@ -67,7 +68,8 @@ Aqui está colocada la carpeta con las actividades realizadas en clase.
 
 Aqui esta colocada la simulacion en SIMUL8. Industria Vinícola
 
-[Industria Vinícola]()
+[Industria Vinícola.zip](https://github.com/user-attachments/files/28288274/Industria.Vinicola.zip)
+
 
 
 
