@@ -32,7 +32,7 @@
 [Profesor Ricardo Palma](<https://github.com/ricardorpalma/TyHM_2026>)
 
 ---
-## ENTREGA MÓDULO 1 
+## ENTREGA MÓDULOS INDIVIDUALES
 |Nombre|Número de teléfono|Mail|Repositorio|
 |:--------- |----------:|:------:|------|
 |Iván Rodriguez|2634219531|everivanro2020@gmail.com|https://github.com/Ever-Ivan-Rodriguez/Modulo1|
@@ -41,7 +41,7 @@
 |Sebastián Dimarco|2634547764|tatitodimarco20@gmail.com|https://github.com/Sebastian-Dimarco/Modulo1|
 |Tomás Flores|2613390528|tomiflores24@gmail.com|https://github.com/tomiflores24/Modulo-1|
 -----
-## Actividad 5
+## Entrega Módulo 1
 |Nombre|LinkCV|
 |:---|:--:|
 |Dimarco Sebastián|[CV](https://github.com/user-attachments/files/26159628/AltaCV_Template.1.pdf)|
