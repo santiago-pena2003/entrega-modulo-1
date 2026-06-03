@@ -77,7 +77,7 @@ Aqui esta colocada la simulacion en SIMUL8. Industria Vinícola
 
 ## Módulo 4
 
-[Archivo .zip del Posit Studio](https://github.com/user-attachments/files/28571877/rstudio-export.zip)
+[Archivo .zip del Posit Cloud](https://github.com/user-attachments/files/28571877/rstudio-export.zip)
 
 
 
